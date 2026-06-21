@@ -40,11 +40,7 @@ Management requires a centralized reporting solution to:
 
 # 📊 Dashboard Preview
 
-> **Insert your Dashboard Screenshot here**
-
-```markdown
 ![Dashboard](Images/dashboard.png)
-```
 
 ---
 
