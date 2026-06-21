@@ -1,0 +1,18 @@
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Python Cache
+
+**pycache**/
+*.pyc
+
+# Temporary Files
+
+*.tmp
+*.log
+
+# Jupyter Notebook Checkpoints
+
+.ipynb_checkpoints/
