@@ -34,7 +34,8 @@ Management requires a centralized reporting solution to:
 - PostgreSQL
 - SQL
 - Power BI
-- Microsoft Excel
+- Git
+- GitHub
 
 ---
 
