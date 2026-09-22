@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analytics & Business Intelligence
 
-An end-to-end Data Analytics project that analyzes pizza sales using **PostgreSQL** and **Power BI** to uncover business insights, evaluate product performance, and build an interactive dashboard for decision-making.
+An end-to-end Data Analytics project that analyzes pizza sales using **Excel**, **PostgreSQL** and **Power BI** to uncover business insights, evaluate product performance, and build an interactive dashboard for decision-making.
 
 ---
 
@@ -8,7 +8,7 @@ An end-to-end Data Analytics project that analyzes pizza sales using **PostgreSQ
 
 This project demonstrates a complete Business Intelligence workflow from raw transactional data to interactive dashboard development.
 
-Using SQL for data analysis and Power BI for visualization, the project identifies key business metrics, customer purchasing behavior, sales trends, and product performance.
+Using Excel for data cleaning, SQL for data analysis and Power BI for visualization, the project identifies key business metrics, customer purchasing behavior, sales trends, and product performance.
 
 The objective is to support data-driven decision-making through meaningful insights and interactive reporting.
 
@@ -31,6 +31,7 @@ Management requires a centralized reporting solution to:
 
 # 🛠 Tech Stack
 
+- Microsoft Excel
 - PostgreSQL
 - SQL
 - Power BI
@@ -69,9 +70,17 @@ Pizza-Sales-Analytics/
 ├── Images/
 ├── README.md
 └── LICENSE
-```
 
 ---
+
+# 🧮 Excel Data Processing
+
+- The initial data preparation in Excel includes:
+- Data Profiling and Sanity Checks
+- Handling Missing Values and Blanks
+- Standardizing Date and Time Formats
+- Removing Duplicates
+- Preliminary Data Exploration using Pivot Tables
 
 # 📋 SQL Analysis
 
@@ -138,9 +147,9 @@ A detailed Business Intelligence report is included in the **Reports** folder.
 
 **Prateek Pratap Singh**
 
-M.Tech Student | Data Analytics Enthusiast
+Data Analytics | M.Tech Graduate | SQL | Excel | Power BI | Python 
 
-SQL • PostgreSQL • Power BI • Python • Machine Learning
+SQL • PostgreSQL • Microsoft Excel • Power BI • Python • Machine Learning
 
 ---
 
