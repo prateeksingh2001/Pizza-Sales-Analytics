@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analytics & Business Intelligence
 
-An end-to-end Data Analytics project that analyzes pizza sales using **Excel**, **PostgreSQL** and **Power BI** to uncover business insights, evaluate product performance, and build an interactive dashboard for decision-making.
+An end-to-end Data Analytics and Business Intelligence project that analyzes pizza sales using **Microsoft Excel, PostgreSQL, SQL and Power BI** to uncover business insights, evaluate product performance, and build an interactive dashboard for decision-making.
 
 ---
 
@@ -8,11 +8,11 @@ An end-to-end Data Analytics project that analyzes pizza sales using **Excel**, 
 
 This project demonstrates a complete Business Intelligence workflow from raw transactional data to interactive dashboard development.
 
-Using Excel for data cleaning, SQL for data analysis and Power BI for visualization, the project identifies key business metrics, customer purchasing behavior, sales trends, and product performance.
+The workflow includes **Excel for initial data preparation and validation, PostgreSQL and SQL for structured data analysis, and Power BI for interactive visualization and reporting**.
 
-The objective is to support data-driven decision-making through meaningful insights and interactive reporting.
+The analysis focuses on sales performance, business KPIs, customer purchasing behavior, product performance, sales trends and business insights.
 
----
+The objective is to transform raw transactional data into meaningful insights that support data-driven decision-making.
 
 # 🎯 Business Problem
 
